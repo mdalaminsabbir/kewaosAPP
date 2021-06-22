@@ -3,6 +3,6 @@
 
 <h4>
 my platforms: <br>
-  1. <a href="https://mdalamin.xyz" target="_blank">Website</a> <br>
-  2. <a href="https://facebook.com" target="_blank">Facebook</a>  
+  1. <a href="https://mdalamin.me" target="_blank">Website</a> <br>
+  2. <a href="https://facebook.com/shabdiksabbir.me" target="_blank">Facebook</a>  
 </h4>
